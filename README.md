@@ -1,1 +1,1 @@
-# Underwater_rock_-_mine_prediction_for_submarines.ipynb
+# Underwater_rock_-_mine_prediction_for_submarines
