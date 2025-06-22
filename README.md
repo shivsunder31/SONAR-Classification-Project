@@ -4,7 +4,7 @@
 This project implements a machine learning pipeline to classify sonar signals as either **rocks** or **mines** using the UCI Sonar dataset. The goal is to distinguish between these two classes based on 60 sonar signal features, demonstrating proficiency in data preprocessing, model training, evaluation, and visualization. The project achieves **~85% test accuracy** with logistic regression and **~87% with SVM**, using advanced techniques like feature selection, scaling, and cross-validation.
 
 ### Dataset
-The [UCI Sonar dataset](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)) contains 208 instances with 60 numeric features (sonar signal intensities) and a binary label:
+The [UCI Sonar dataset](https://drive.google.com/file/d/1pQxtljlNVh0DHYg-Ye7dtpDTlFceHVfa/view) contains 208 instances with 60 numeric features (sonar signal intensities) and a binary label:(https://drive.google.com/file/d/1pQxtljlNVh0DHYg-Ye7dtpDTlFceHVfa/view)
 - **Classes**: "R" (Rock, ~97 instances, 47%) and "M" (Mine, ~111 instances, 53%).
 - **Features**: 60 continuous values (range ~0.0–1.0), representing signal returns at different angles.
 - **File**: `Copy of sonar data.csv` (included in the repository).
