@@ -83,7 +83,7 @@ The [UCI Sonar dataset](https://drive.google.com/file/d/1pQxtljlNVh0DHYg-Ye7dtpD
    - Google Colab or a local Python environment.
 
 2. **Steps**:
-   - Clone the repository: `git clone https://github.com/your-username/Sonar-Classification-Project.git`
+   - Clone the repository: `git clone https://github.com/shivsunder31/SONAR-Classification-Project.git`
    - Place `Copy of sonar data.csv` in the working directory.
    - Run `sonar_classification.py` in Colab or locally:
      ```bash
